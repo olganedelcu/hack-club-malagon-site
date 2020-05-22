@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import Footer from '../pages/components/footer'
 
 const ContactMe = () => {
     return (
