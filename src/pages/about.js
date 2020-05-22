@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Footer from '../pages/components/footer' 
-import Header from '../pages/components/header'
+import Footer from '../components/footer' 
+import Header from '../components/header'
 
 const Title = () => {
     return (
