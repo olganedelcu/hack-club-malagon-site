@@ -1,9 +1,11 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
+import './header.scss'
+
 const Header = () => {
     return (
-            <header>
+            <div>
                 <h1>Olga Nedelcu</h1>
                 <nav>
                     <ul>
@@ -21,7 +23,7 @@ const Header = () => {
                         </li>
                     </ul>
                 </nav>
-            </header>
+            </div>
     )
 }
 
