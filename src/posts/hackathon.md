@@ -1,6 +1,6 @@
 ---
 title: "First Hackathon"
-date: "19-10-2019"
+date: "30-06-2020"
 ---
 
 
