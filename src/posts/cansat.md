@@ -1,6 +1,6 @@
 ---
  title: "CanSat"
- date : "02-01-2020"
+ date : "30-06-2020"
 ---
 
 We participate in CanSat a student's competition
