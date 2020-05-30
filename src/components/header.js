@@ -10,18 +10,18 @@ const Header = () => {
                     <Link className={headerStyles.title} to="/">Olga Nedelcu</Link>
                 </h1>
                 <nav>
-                    <ul>
+                    <ul className={headerStyles.navList}>
                         <li>
-                            <Link to="./about" className={headerStyles.link} >About</Link>
+                            <Link to="/about" className={headerStyles.navItem} >About</Link>
                         </li>
                         <li>
-                            <Link to="./index">Home</Link>
+                            <Link to="/index" className={headerStyles.navItem}>Home</Link>
                         </li>
                         <li>
-                            <Link to="./blog">Blog</Link>
+                            <Link to="/blog" className={headerStyles.navItem}>Blog</Link>
                         </li>
                         <li>
-                            <Link to="./contact">Contact</Link>
+                            <Link to="/contact" className={headerStyles.navItem}>Contact</Link>
                         </li>
                     </ul>
                 </nav>

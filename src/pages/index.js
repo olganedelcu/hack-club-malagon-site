@@ -5,13 +5,16 @@ import Layout from'../components/layout'
 
 const IndexPage = () => {
   return (
-    <Layout>
-       <h1>Hello,</h1>
+    <div>
+      <Layout>
+      <h1>Hello,</h1>
       <p>I'm Olga Nedelcu</p>
-      <Link to="./contact.js">Contact me!</Link><br />
-      <Link to="./blog">Blog<span role="img">🤗</span></Link><br />
-      <Link to="./about"><span role="img">🧐</span>About</Link><br />
+      <Link to="/contact">Contact me!</Link>
+      <Link to="/blog">Blog🤗</Link>
+      <Link to="/about">🧐About</Link>
     </Layout>
+    </div>
+    
   )
 }
 
