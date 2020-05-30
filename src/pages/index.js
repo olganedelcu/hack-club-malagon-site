@@ -7,14 +7,10 @@ const IndexPage = () => {
   return (
     <div>
       <Layout>
-      <h1>Hello,</h1>
-      <p>I'm Olga Nedelcu</p>
-      <Link to="/contact">Contact me!</Link>
-      <Link to="/blog">Blog🤗</Link>
-      <Link to="/about">🧐About</Link>
+      <h1>Hello. </h1>
+      <p>This is the official website of Hack Club Malagón</p>
     </Layout>
-    </div>
-    
+    </div>  
   )
 }
 

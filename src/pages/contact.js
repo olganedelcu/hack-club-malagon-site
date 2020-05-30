@@ -7,10 +7,9 @@ const ContactMe = () => {
     return (
         <div>
             <Layout>
-                <h1>💥 Don't be shy and contact me!! 💥 </h1>
-                <a href="https://github.com/olganedelcu" target="_black">github</a><br />
-                <a href="https://www.linkedin.com/in/olga-nedelcu-919243193/" target="_black">linkedin</a><br />
-                <a href="https://dev.to/olganedelcu" target="_black">dev</a>
+                <h1>💥 Don't be shy and contact us!! 💥 </h1>
+                <a href="https://github.com/orgs/Malagon-Hack-Club/dashboard" target="_black">github</a><br />
+                <a href="https://www.linkedin.com/company/malagon-hack-club/" target="_black">linkedin</a><br />
             </Layout>
         </div>
     )
