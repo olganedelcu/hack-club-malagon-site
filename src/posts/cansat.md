@@ -7,6 +7,6 @@ We participate in CanSat a student's competition
 
 ## Topics Covered
 
-1.Arduino
-2.Team Work
-3.Space & physics
+1. Arduino
+2. Team Work
+3. Space & physics
