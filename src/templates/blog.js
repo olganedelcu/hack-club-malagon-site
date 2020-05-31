@@ -18,12 +18,21 @@ export const query = graphql`
 `
 
 const Blog = (props) => {
+  const options = {
+    renderNode:{
+      "embedded-asset-block": (node) => {
+        const alt = ''
+        const url= ''
+        return <img alt={alt} src={url} />
+      }
+    }
+  }
   return (
     <div>
       <Layout>
        <h1>{props.data.contentfulBlogPost.title}</h1>
        <p>{props.data.contentfulBlogPost.publishedDate}</p>
-        {documentToReactComponents(props.data.contentfulBlogPost.body.json)}
+        {documentToReactComponents(props.data.contentfulBlogPost.body.json, options)}
       </Layout>
     </div>
   )
