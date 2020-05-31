@@ -25,9 +25,9 @@ import Layout from '../components/layout'
 
 export const query = graphql`
   query($slug: String!){
-    contentfulBlogPost(slug:{eq: $slug}){
+    contentfulBlogPost(slug: {eq: $slug}) {
       title
-      publishedDate(formatString:"MMMM Do, YYYY")
+      publishedDate(formatString: "MMMM Do, YYYY")
     }
   }
 `
