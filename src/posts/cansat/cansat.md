@@ -5,7 +5,7 @@
 
 We participate in CanSat a student's competition
 
-![Working on SpaceCan](./hackclub.jpg)
+![Working on SpaceCan](/hackclub.jpg)
 
 ## Topics Covered
 
