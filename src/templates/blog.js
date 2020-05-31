@@ -9,4 +9,4 @@ const Blog = () => {
     )
 }
 
-return default Blog
+export default Blog
