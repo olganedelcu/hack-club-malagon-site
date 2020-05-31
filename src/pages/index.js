@@ -8,7 +8,7 @@ const IndexPage = () => {
   return (
     <div>
       <Layout>
-        <Head />
+        <Head title="Home"/>
       <h1>Hello. </h1>
       <p>This is the official website of Hack Club Malagón</p>
     </Layout>
