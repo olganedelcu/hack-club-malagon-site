@@ -5,6 +5,8 @@
 
 We participate in CanSat a student's competition
 
+![Working on SpaceCan](./hackclub.jpg)
+
 ## Topics Covered
 
 1. Arduino
