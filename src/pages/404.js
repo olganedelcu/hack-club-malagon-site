@@ -10,6 +10,7 @@ const NotFound = () => {
         <Layout>
             <Head title="Not Found"/>
             <h1>Page not found</h1>
+            <p>Please try to serch for something else</p>
             <p><Link to="/">Head home</Link></p>
         </Layout>
     )
