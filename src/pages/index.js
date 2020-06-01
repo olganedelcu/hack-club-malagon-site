@@ -11,7 +11,7 @@ const IndexPage = () => {
       <Head title="Home"/>
       <h1>What is Hack Club?</h1>
       <p>Hack Club is a global network of programming clubs where members learn to code through tinkering and building projects.</p>
-      <h2>What's Hack Club Malagón?</h2>
+      <h2>✨What's Hack Club Malagón?</h2>
       
       
       <p>Nowadays learning to program is like getting a super power‍🚀: switched from consumer to creator.<br /> Suddenly, computers become a tool for creating.
