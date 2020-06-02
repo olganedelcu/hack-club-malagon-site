@@ -11,7 +11,6 @@ const ContactMe = () => {
             <Layout>
                 <Head title="Contact" />
                 <h1>Don't be shy and contact us!!</h1>
-               
             </Layout>
         </div>
     )

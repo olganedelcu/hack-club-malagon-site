@@ -10,7 +10,7 @@ const IndexPage = () => {
     <div>
       <Layout>
         <Head title="Home" />
-        <h1>What is <i>Hack Club</i>😍 ?</h1>
+        <h1>What is <b>Hack Club</b>😍 ?</h1>
         <p>Hack Club is a global network of programming clubs where members learn to code through tinkering and building projects.</p>
         <p>Link to webpage: <a className={styledIndex.a} href="https://hackclub.com" target="_blank">🔗Hack Club</a></p>
         <h2>✨What's Hack Club Malagón?</h2>

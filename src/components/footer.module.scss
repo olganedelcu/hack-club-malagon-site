@@ -5,15 +5,17 @@ ul {
     list-style-type: none;
     margin: 0;
 }
-li {
-    padding-left: 0;
-    margin-left: 0;
+.li-name {
+    display: inline;
+    text-align: center;
     a {
         border: 0;
         color: #000;
+        display: inline-block;
+        padding: .5em;
         }
     a:hover{
-        color: rgb(168, 47, 47);
+        background-color: rgb(255, 251, 251);
         }
     svg {
         display: inline-block;
@@ -23,5 +25,4 @@ li {
 }
 div {
     display: block;
-    text-align: left;
 }
