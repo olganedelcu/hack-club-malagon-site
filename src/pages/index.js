@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from 'gatsby'
+
 
 import Head from '../components/head'
 import Layout from '../components/layout'
@@ -21,6 +21,7 @@ const IndexPage = () => {
       </p>
         <p><b>"We believe in a world where each young person has the power to be the change they want to see around them. At Hack Club Malagón, we want to make it happen"
         </b></p>
+        <h2>What’s made inside Hack Clubs?</h2>
       </Layout>
     </div>
   )
