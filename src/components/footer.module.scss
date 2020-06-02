@@ -1,3 +1,26 @@
 .footer {
     margin-top: 3rem;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+li {
+    padding-left: 0;
+    margin-left: 0;
+    a {
+        border: 0;
+        color: #000;
+        }
+    a:hover{
+        color: rgb(168, 47, 47);
+        }
+    svg {
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+       }
+}
+div {
+    display: block;
+}
