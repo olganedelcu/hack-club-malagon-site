@@ -25,7 +25,7 @@ const IndexPage = () => {
         <p>Taking a look inside any Hack Club meeting, you will find people working on their
         computers and  building their own projects (websites, games, etc.)🙈 🙉 🙊 . Some students will
         be collaborating together, while others will be developing them independently. These
-        students are creating what they want to see in the world without any restrictions.<br /> The
+        students are creating what they want to see in the world without any restrictions😊.<br /> The
         environment inside this club is a friendly, inclusive, and productive one. Whether you’re
         a first-time coder, or you are an expert, Hack Club welcomes students of all levels💯. If
         you don’t know how to code but want to create something, this club is a very good place
