@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^13.4.0",
+    "@hackclub/design-system": "0.0.1-18",
     "bootstrap": "^4.5.0",
     "gatsby": "^2.21.37",
     "gatsby-plugin-react-helmet": "^3.0.12",
