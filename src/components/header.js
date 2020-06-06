@@ -16,7 +16,7 @@ const Header = () => {
     `)
     return (
         <div className={headerStyles.header}>
-            <h1>
+            <h1 className={headerStyles.hack}>
                 <Link className={headerStyles.title} to="/">{data.site.siteMetadata.title}</Link>
             </h1>
             <nav>
