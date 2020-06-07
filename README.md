@@ -2,7 +2,7 @@
 
  Link: <br />
 
-https://distracted-brown-ac2bd6.netlify.app
+https://lucid-banach-7a49d8.netlify.app
 
 Using Gastby + React 🤖
 
