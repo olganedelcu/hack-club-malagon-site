@@ -36,7 +36,7 @@ const IndexPage = () => {
         Be welcome to sing up!😍
       </p>
         <h2>🏫Sessions</h2>
-        <p>The sessions last 1.5h.<br />In each students will share advances, technological knowledge, applications and future tech goals!Each student is provided with a computer so he/she can work freerly🤓</p>
+        <p>The sessions last 1.5h.<br />In each students will share advances, technological knowledge, applications and future tech goals!Each student is provided with a computer so he/she can work freely🤓</p>
       </Layout>
     </div>
   )

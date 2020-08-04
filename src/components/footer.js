@@ -17,7 +17,6 @@ const Footer = () => {
     return (
         <div className={footerStyles.footer}>
             <p>Created by {data.site.siteMetadata.author},  © 2020</p>
-            <div className={footerStyles.div}>
                 <ul className={footerStyles.ul}>
                     <li className={footerStyles.liName}>
                     <a href="https://www.linkedin.com/company/malagon-hack-club/" rel="noopener noreferrer" target="_blank">
@@ -43,7 +42,6 @@ const Footer = () => {
                         </path></svg></a></li>
                </ul>
                 </div>
-        </div>
     )
 }
 export default Footer
