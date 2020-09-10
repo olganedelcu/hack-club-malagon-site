@@ -6,4 +6,4 @@ https://hackclubmalagon.netlify.app
 
 Using Gastby + React 🤖
 
-Hope you love it! 
+Hope you love it💖! 
