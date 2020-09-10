@@ -1,6 +1,6 @@
 # Hack Club Malagón website #
 
- Link: <br />
+ Link: </br>
 
 https://hackclubmalagon.netlify.app
 
